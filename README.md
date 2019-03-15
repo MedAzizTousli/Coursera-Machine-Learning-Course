@@ -1,4 +1,4 @@
-# Coursera-s-Machine-Learning
+# Coursera's Machine Learning
 <p> This repository contains my full documentation of Coursera's Machine Learning Course taught by the professor Andrew Ng from the University of Stanford. </p>
 
 <h2> About the Course </h2>
