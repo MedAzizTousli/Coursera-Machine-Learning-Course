@@ -11,5 +11,6 @@ https://www.coursera.org/learn/machine-learning
 <ul>
 <li>  Course Summary </li>
 <li>  Course Certificate </li>
+<li>  Lectures </li>
 <li>  Assignments </li>
 </ul>
